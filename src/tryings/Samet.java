@@ -13,7 +13,9 @@ public class Samet {
 		int dakika = scan.nextInt();
 		
 		System.out.println("This is the first gitHup trying");
-		
+		System.out.println("This message is addded in my computer");
+		System.out.println("This is the second message addded in my computer");
+
 		int amerikaSaat = (saat - 7 + 24), japonyaSaat = (saat + 8 + 24), turkiyeSaat = (saat + 1);
 
 		if (amerikaSaat > 24) {
