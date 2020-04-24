@@ -14,7 +14,7 @@ public class Q80 {
 		
 		
 	}
-	public boolean threeLocks(boolean a, boolean b, boolean c) {
+	public static boolean threeLocks(boolean a, boolean b, boolean c) {
 	      // Code Here
 	    if (a==true && b ==true || c ==true){
 	      return true;
